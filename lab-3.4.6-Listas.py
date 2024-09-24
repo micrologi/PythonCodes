@@ -13,3 +13,13 @@ del hat_list[len(hat_list)-1]
 print(len(hat_list))
 
 print (hat_list) 
+
+
+hat_list.append(10)
+print (hat_list) 
+
+hat_list.insert(-1,20)
+print (hat_list) 
+
+hat_list.insert(1,15)
+print (hat_list) 
