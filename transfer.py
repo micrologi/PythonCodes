@@ -1,6 +1,6 @@
-my_list = [1, 2, 3]
+def introduction(first_name, last_name="Smith"):
+     print("Olá meu nome é", first_name, last_name)
+     
+     
+introduction('Marlon')
 
-for v in range(len(my_list)):
-   my_list.insert(1, my_list[v])
-
-print(my_list)
