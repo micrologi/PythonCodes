@@ -1,5 +1,5 @@
 beatles = []
-print("Etapa 1:", beatles)
+print("Etapa 1:", beatles) 
 
 beatles.append("John Lennon")
 beatles.append("Paul McCartney")
