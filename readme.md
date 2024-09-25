@@ -9,6 +9,13 @@ Você pode clonar o repositório para seu uso local:
 git clone https://github.com/micrologi/PythonCodes/
 ```
 
+## Autores / Contribuidores
+
+Contato dos autores e contribuidores:
+
+Marlon Andrei
+[marlon.andrei@webagencia.com.br](mailto:marlon.andrei@webagencia.com.br)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
