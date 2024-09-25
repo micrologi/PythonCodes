@@ -1,6 +1,9 @@
-def introduction(first_name, last_name="Smith"):
-     print("Olá meu nome é", first_name, last_name)
-     
-     
-introduction('Marlon')
+def Retorno():
+     return
 
+
+x = Retorno()
+print(x)
+
+if x is None:
+     print('Retornou nada')
