@@ -1,6 +1,6 @@
 from click import clear
 from math import pow
-
+ 
 clear()
 peso = float(input("Peso: "))
 altura = float(input("Altura (Metros): "))
