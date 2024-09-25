@@ -18,3 +18,11 @@ print(my_list_sort)
 my_list_reverse = my_list_sort.copy()
 my_list_reverse.reverse()
 print(my_list_reverse)
+
+
+my_list = [10, 8, 6, 4, 2]
+new_list = my_list[1:3]
+print(new_list)
+
+new_list = my_list[1:4]
+print(new_list)
