@@ -1,9 +1,3 @@
-def Retorno():
-     return
-
-
-x = Retorno()
-print(x)
-
-if x is None:
-     print('Retornou nada')
+foo = (1, 2, 3)
+print(foo.index(3))
+ 
