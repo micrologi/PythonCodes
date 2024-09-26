@@ -1,3 +1,3 @@
-foo = (1, 2, 3)
-print(foo.index(3))
- 
+p = ['a','b','c','d','e']
+
+print(p[-1])
