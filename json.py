@@ -1,3 +1,5 @@
+import json
+
 notas = {
             'maria':{
                         'mat':9,
@@ -16,10 +18,6 @@ notas = {
                     }
         }
 
-print(notas)
-print(notas['julia']['mat'])
 
-print(notas.keys())
-print(notas.values())
-
-print(notas['maria'].values())
+json_object = json.dumps(notas, indent = 4) 
+print(json_object)
