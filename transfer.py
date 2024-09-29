@@ -1,3 +1,2 @@
-p = ['a','b','c','d','e']
-
-print(p[-1])
+import debugpy
+debugpy.listen(("localhost", 5678))
