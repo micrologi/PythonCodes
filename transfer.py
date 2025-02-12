@@ -1,2 +1,3 @@
-import debugpy
-debugpy.listen(("localhost", 5678))
+import uuid
+print(uuid.uuid4().hex)
+print(len(uuid.uuid4().hex))
